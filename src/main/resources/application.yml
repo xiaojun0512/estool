@@ -1,0 +1,12 @@
+server:
+  port: 7788
+#spring:
+#  elasticsearch:
+#    rest:
+#      connection-timeout: 1000
+#      uris: http://localhost:9200
+es:
+  user:
+  password:
+  host: localhost
+  port: 9200
